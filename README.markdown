@@ -1,4 +1,4 @@
-[Rock ChMS](http://rockchms.org/) - RefreshCache Misc Stuff
+[RefreshCache](http://www.refreshcache.com) - RefreshCache Misc Stuff
 =================================================================
 
 ## What Are You Looking For?
@@ -10,3 +10,4 @@ Presentations from previous year's RefreshCache event are over in the gh-pages a
 * [The RefreshCache site](http://www.refreshcache.com)
 * [Redmine Repository](http://redmine.refreshcache.com)
 * [Arena <Sample Server/>](http://arena.refreshcache.com)
+
